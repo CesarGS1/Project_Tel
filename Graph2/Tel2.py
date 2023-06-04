@@ -133,5 +133,7 @@ if __name__ == '__main__':
     sys.exit(app.exec_()) 
 
 print("Hola")
+
+print("Delta")
     
 
