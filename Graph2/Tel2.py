@@ -130,6 +130,8 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     ex = SerialPlot()
     ex.show()
-    sys.exit(app.exec_())
+    sys.exit(app.exec_()) 
+
+print("Hola")
     
 
